@@ -28,6 +28,10 @@ gem 'rails_12factor', group: :production
 gem 'pg', group: :production
 # used to upload files to the site
 gem 'carrierwave'
+# used to upload files aws
+gem 'fog'
+# used to hide configuation data from git and others online
+gem "figaro"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
