@@ -34,7 +34,8 @@ gem 'fog'
 gem "figaro"
 # used to reduce the size of images
 gem "mini_magick"
-
+# used for user management
+gem 'devise'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

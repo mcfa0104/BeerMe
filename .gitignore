@@ -22,3 +22,4 @@
 
 # Ignore temporary upload directory
 public/uploads/tmp/*
+public/uploads/misc/*
