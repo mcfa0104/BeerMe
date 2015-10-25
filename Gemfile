@@ -32,6 +32,8 @@ gem 'carrierwave'
 gem 'fog'
 # used to hide configuation data from git and others online
 gem "figaro"
+# used to reduce the size of images
+gem "mini_magick"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
